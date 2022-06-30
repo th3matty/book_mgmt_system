@@ -5,7 +5,8 @@ import (
 	"net/http"
 	"github.com/gorilla/mux"
 	_ "github.com/jinzhu/gorm/dialects/mysql"
-	"github.com/th3matty/book_mgmt_system/pkg/routes"
+	//"github.com/th3matty/book_mgmt_system/pkg/routes"
+	"github.com/th3matty/book_mgmt_system/tree/main/pkg/routes"
 )
 
 func main(){
