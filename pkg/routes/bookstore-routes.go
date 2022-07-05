@@ -2,7 +2,7 @@ package routes
 
 import (
 	"github.com/gorilla/mux"
-	"github.com/th3matty/book_mgmt_system/pkg/controllers"
+	"github.com/th3matty/book_mgmt_system/tree/main/pkg/controllers"
 )
 
 // flow of data

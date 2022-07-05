@@ -6,8 +6,9 @@ import (
 	"github.com/gorilla/mux"
 	"net/http"
 	"strconv"
-	"github.com/th3matty/book_mgmt_system/pkg/utils"
-	"github.com/th3matty/book_mgmt_system/pkg/models"
+
+	"github.com/th3matty/book_mgmt_system/tree/main/pkg/utils"
+	"github.com/th3matty/book_mgmt_system/tree/main/pkg/models"
 )
 
 // declare new variable newBook after type struct Book in models

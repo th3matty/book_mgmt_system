@@ -2,7 +2,7 @@ package models
 
 import (
 	"github.com/jinzhu/gorm"
-	"github.com/th3matty/book_mgmt_system/pkg/config/"
+	"github.com/th3matty/book_mgmt_system/tree/main/pkg/config"
 )
 
 var db * gorm.DB
